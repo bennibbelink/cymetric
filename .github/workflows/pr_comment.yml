@@ -19,10 +19,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           run-id: ${{ github.event.workflow_run.id }}
           merge-multiple: true
-          
-      - name: debug
-        run: |
-          ls -R
 
       - name: Merge artifacts and get PR number
         run: |
