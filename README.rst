@@ -6,7 +6,7 @@ Installing Cymetric
 
 Cymetric is available on the same platforms as Cyclus: Ubuntu and Max OS.
 
-Dependencies
+Dependencies 
 ~~~~~~~~~~~~
 First, please check to make sure you have all of the dependencies.
 
